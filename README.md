@@ -1,11 +1,11 @@
 # s21-team9-project
 
 # Members
-Hannah Williams
-Gloria Abuka 
-Jessica Wijaya
-Kerolus Shihataa 
-Rober Makram
+  - Hannah Williams
+  - Gloria Abuka 
+  - Jessica Wijaya
+  - Kerolus Shihataa 
+  - Rober Makram
 
 
 # Summary
