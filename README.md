@@ -16,6 +16,6 @@
   
   
 # Installation 
-  1. To install all of the required libraries to run the python scripts.
+  1. Install all of the required libraries to run the python scripts.
       - pip install -r requirements.txt
 
