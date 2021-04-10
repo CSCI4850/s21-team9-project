@@ -17,5 +17,5 @@ Rober Makram
   
 # Installation 
   1. To install all of the required libraries to run the python scripts.
-      - Install the pip install -r requirements.txt
+      - pip install -r requirements.txt
 
