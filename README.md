@@ -4,7 +4,7 @@
   - Hannah Williams
   - Gloria Abuka 
   - Jessica Wijaya
-  - Kerolus Shihataa 
+  - kirolous Shihataa 
   - Rober Makram
 
 
