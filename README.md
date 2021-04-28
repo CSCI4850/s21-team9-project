@@ -16,9 +16,9 @@
 # Installation 
   1. Install all of the required libraries to run the python scripts.
       - pip install -r requirements.txt
-     
+      
   2. Download the weight files and Demo.py or Demo.ipynb
-      ----
+      - link
       
   3. Plug in the image you want to run the program on.
       - python Demo.py
